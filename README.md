@@ -127,7 +127,7 @@ npm run preview
 ```
 
 ## Author
-Nibhrant Vaishnav
-Riyanshi
-Sumukh Bendre
+- Nibhrant Vaishnav
+- Riyanshi
+- Sumukh Bendre
 
