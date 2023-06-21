@@ -126,3 +126,8 @@ Locally preview production build:
 npm run preview
 ```
 
+##Author
+Nibhrant Vaishnav
+Riyanshi
+Sumukh Bendre
+
