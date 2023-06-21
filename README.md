@@ -126,7 +126,7 @@ Locally preview production build:
 npm run preview
 ```
 
-##Author
+## Author
 Nibhrant Vaishnav
 Riyanshi
 Sumukh Bendre
