@@ -130,4 +130,5 @@ npm run preview
 - Nibhrant Vaishnav
 - Riyanshi
 - Sumukh Bendre
+- Sheetal Kaushik
 
